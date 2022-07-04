@@ -22,7 +22,7 @@ We are looking for contributors to make a translation of MetamaskIPN payment but
 | es     | Spanish              | 2.0.2   | Andres Mendoza       | [Site][es]
 
 [site]: https://www.evolutionscript.com
-[es]: https://twitter.com/ajmsDev
+[es]: https://www.evolutionscript.com
 
 ## License
 
