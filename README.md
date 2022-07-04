@@ -1,6 +1,6 @@
 # Translations for MetamaskIPN.com
 
-This project contains translations for MetamaskIPN localization.
+This project contains translations for [MetamaskIPN](https://www.metamaskipn.com) localization.
 
 Localization variants are provided for, as folders named with the two-letter ISO 639-1 language code in
 lowercase, followed by the two-letter [ISO 3166 country code](https://en.wikipedia.org/wiki/ISO_3166-1)
