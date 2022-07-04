@@ -1,0 +1,32 @@
+[
+  {
+    "lang": "en",
+    "name": "English",
+    "vars": {
+      "pay_with_metamask": "Pay with Metamask",
+      "please_wait": "Please wait...",
+      "loading": "Loading...",
+      "invalid_site": "Invalid site. Contact to administrator.",
+      "invalid_amount": "Invalid amount. Contact to administrator.",
+      "invalid_token": "Invalid token. Contact to administrator.",
+      "invalid_item_name": "Invalid item name. Contact to administrator.",
+      "payment_completed": "Payment completed",
+      "cancel": "Cancel"
+    }
+  },
+  {
+    "lang": "es",
+    "name": "Español",
+    "vars": {
+      "pay_with_metamask": "Pagar con Metamask",
+      "please_wait": "Por favor espere...",
+      "loading": "Cargando...",
+      "invalid_site": "Sitio inválido. Contácte al administrador.",
+      "invalid_amount": "Monto inválido. Contácte al administrador.",
+      "invalid_token": "Token inválido. Contácte al administrador.",
+      "invalid_item_name": "Nombre del artículo inválido. Contácte al administrador.",
+      "payment_completed": "Transacción completada",
+      "cancel": "Cancelar"
+    }
+  }
+]
