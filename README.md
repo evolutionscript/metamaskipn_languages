@@ -17,9 +17,9 @@ These translations are intended for use with MetamaskIPN.com
 
 We are looking for contributors to make a translation of MetamaskIPN payment button and shopping cart, credits will be displayed here.
 
-| Locale | Language             | As of** | Maintainer           | Website
-| ------ | -------------------- | ------- | -------------------- | --------------------
-| es     | Spanish              | 2.0.2   | Andres Mendoza       | [Site][es]
+| Locale | Language             | Maintainer           | Website
+| ------ | -------------------- | -------------------- | --------------------
+| es     | Spanish              | Andres Mendoza       | [Site][es]
 
 [site]: https://www.evolutionscript.com
 [es]: https://www.evolutionscript.com
