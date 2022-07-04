@@ -11,6 +11,7 @@
       "invalid_token": "Invalid token. Contact to administrator.",
       "invalid_item_name": "Invalid item name. Contact to administrator.",
       "payment_completed": "Payment completed",
+      "install_metamask": "Install Metamask to continue with this transaction.",
       "cancel": "Cancel"
     }
   },
@@ -26,6 +27,7 @@
       "invalid_token": "Token inválido. Contácte al administrador.",
       "invalid_item_name": "Nombre del artículo inválido. Contácte al administrador.",
       "payment_completed": "Transacción completada",
+      "install_metamask": "Instala Metamask para continuar con esta transacción.",
       "cancel": "Cancelar"
     }
   }
